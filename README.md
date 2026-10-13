@@ -11,6 +11,8 @@ Hikâye odaklı bir **merge-2 köy onarma oyunu** (iOS ve Android) · Unity 6 (U
 > Bu depo yalnızca oyunun tanıtımıdır; kaynak kod ve oyun varlıkları yayımlanmaz.
 > This repository is a showcase only; source code and game assets are not published.
 
+![Home village, fully built](images/village_home.png)
+
 ## Yıkıktan canlıya / From ruins to life
 
 <p>
@@ -25,15 +27,19 @@ Benzer malzemeleri daha iyi malzemelere birleştir, görevlere teslim et ve yık
 ## Bölgeler / Regions
 
 <p>
-<img src="images/regions/whisperwood.png" width="23%" alt="Whisperwood">
-<img src="images/regions/stonepeak.png" width="23%" alt="Stonepeak">
-<img src="images/regions/saltcove.png" width="23%" alt="Saltcove">
-<img src="images/regions/vineyard.png" width="23%" alt="Vineyard Vale">
+<img src="images/regions/whisperwood.png" width="49%" alt="Whisperwood">
+<img src="images/regions/stonepeak.png" width="49%" alt="Stonepeak">
 </p>
 <p>
-<img src="images/regions/oasis.png" width="23%" alt="Sunrise Oasis">
-<img src="images/regions/frostholm.png" width="23%" alt="Frostholm">
-<img src="images/regions/crownkeep.png" width="23%" alt="Crown Keep">
+<img src="images/regions/saltcove.png" width="49%" alt="Saltcove">
+<img src="images/regions/vineyard.png" width="49%" alt="Vineyard Vale">
+</p>
+<p>
+<img src="images/regions/oasis.png" width="49%" alt="Sunrise Oasis">
+<img src="images/regions/frostholm.png" width="49%" alt="Frostholm">
+</p>
+<p>
+<img src="images/regions/crownkeep.png" width="49%" alt="Crown Keep">
 </p>
 
 Whisperwood · Stonepeak · Saltcove · Vineyard Vale · Sunrise Oasis · Frostholm · Crown Keep
